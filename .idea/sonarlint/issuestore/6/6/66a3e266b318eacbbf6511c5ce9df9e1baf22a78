@@ -1,0 +1,12 @@
+
+Csquid:S2129	" Remove this "String" constructor(˜¢÷ıÿÿÿÿ8€Æ»í¹.
+Jsquid:S1481"'Remove this unused "s1" local variable.(‰ş„Øûÿÿÿÿ8‹×»í¹.
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(©ÙîŞ8€Æ»í¹.
+Csquid:S2129
+" Remove this "String" constructor(¾ÄŒ²øÿÿÿÿ8€Æ»í¹.
+Wsquid:S4973"9Use the "equals" method if value comparison was intended.(©ÙîŞ8â«¼í¹.
+ksquid:S1192"HDefine a constant instead of duplicating this literal "sai ram" 4 times.(‰ş„Øûÿÿÿÿ8€Æ»í¹.
+jsquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(¾ª‚Çÿÿÿÿÿ
+hsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ººã8‹×»í¹.
+Esquid:S1481"'Remove this unused "s2" local variable.(ı‘™•8‹×»í¹.

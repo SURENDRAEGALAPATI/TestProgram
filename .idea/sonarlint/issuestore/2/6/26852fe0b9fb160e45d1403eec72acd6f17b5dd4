@@ -1,0 +1,6 @@
+
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(ζΏΝγÿÿÿÿÿ8θ§†§›.
+Wsquid:S2251"9"i" is decremented and will never reach "stop condition".(πί«ς8θ§†§›.
+@squid:S2189""Correct this loop's end condition.(πί«ς8θ§†§›.
+Dsquid:S1481"&Remove this unused "x" local variable.(—ϊσ8θ§†§›.

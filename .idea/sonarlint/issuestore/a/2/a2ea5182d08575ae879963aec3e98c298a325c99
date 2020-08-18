@@ -1,0 +1,4 @@
+
+Š"squid:ClassVariableVisibilityCheck"UMake hotelName a static final constant or non-public and provide accessors if needed.(›æ¢â8Ã½Šº.
+"squid:ClassVariableVisibilityCheck"UMake hotelCity a static final constant or non-public and provide accessors if needed.(Ë§‡¼ıÿÿÿÿ8ùÿ‹º.
+"squid:ClassVariableVisibilityCheck"VMake hotelState a static final constant or non-public and provide accessors if needed.(²‡…ıÿÿÿÿ8ùÿ‹º.

@@ -1,0 +1,12 @@
+
+Isquid:S1481"&Remove this unused "a" local variable.(ò†äıÿÿÿÿ8”×î² .
+Xsquid:S1854"5Remove this useless assignment to local variable "b".(Æ„Ùìÿÿÿÿÿ8”×î² .
+fsquid:S3518"CMake sure this expression can't be zero before doing this division.(“‚§ ùÿÿÿÿ8ÿ¼ı² .
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(¨¶ÑÍşÿÿÿÿ8å¼ğ² .
+Isquid:S1481"&Remove this unused "b" local variable.(Æ„Ùìÿÿÿÿÿ8”×î² .
+Xsquid:S1854"5Remove this useless assignment to local variable "a".(ò†äıÿÿÿÿ8”×î² .
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(Ï´ö°øÿÿÿÿ8µÿ‰³ .
+Isquid:S1481"&Remove this unused "c" local variable.(“‚§ ùÿÿÿÿ8®äˆ³ .
+Xsquid:S1854"5Remove this useless assignment to local variable "c".(“‚§ ùÿÿÿÿ8®äˆ³ .
